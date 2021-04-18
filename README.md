@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Nautiyal
 - 👀 I’m interested in solving problems, competetive programing and devlopment.
 - 🌱 I’m currently learning python, linux and ML.
-- 💞️ I’m looking to collaborate on server automation.
+- 💞️ I’m looking to collaborate on any project where we could solve problems that could help others benefit from it.
 - 📫 How to reach me:rnautiyal581996@gmail.com
 
 <!---
