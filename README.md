@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rnautiyal581996
+- 👋 Hi, I’m Rahul Nautiyal
 - 👀 I’m interested in solving problems, competetive programing and devlopment.
 - 🌱 I’m currently learning python, linux and ML.
 - 💞️ I’m looking to collaborate on server automation.
